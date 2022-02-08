@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IzzuddinNaufalH
+- 👋 Hi, I’m @Izznakim
 - 👀 I’m interested in Programming, and playing the harmonica
 - 🌱 I’m currently learning android app development and playing harmonica
 - 💞️ I’m looking to collaborate on an android app project with kotlin programming language
